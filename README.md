@@ -5,7 +5,7 @@
 
 I'm Ali, a software developer with a background in healthcare. I am passionate about developing code that makes technology accessible to all. 
 
-Check out my [portfolio](alisonherrera.com)
+Check out my [website]([url](https://alisonherrera.com/))
 
 Follow me on [Twitter]([url](https://twitter.com/_Ali_Herrera))
 
