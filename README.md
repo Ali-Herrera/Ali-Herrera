@@ -29,7 +29,7 @@ Email me at: alisonherrera02@gmail.com
       <h3 align="center">UpTowne Renovations and Design</h3>
         <br />
         <a target="_blank" href="https://uptownerenos.netlify.app/">
-            <img src="https://ibb.co/LQ7bqMP" width="100%" alt=""/>
+            <img src="https://i.ibb.co/FsTNf9W/Up-Towne-Project.png" width="100%" alt="Contractor website"/>
         </a>
         <br />
         <p align="center">
@@ -41,14 +41,13 @@ Email me at: alisonherrera02@gmail.com
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, HTML5, CSS3, Netlify</strong> - Sleek, responsive website for small contracting and interior design business to advance their web presence </p>
+        <p><strong>Javascript, HTML5, CSS3, Netlify</strong> - Sleek, responsive website for small contracting and interior design business to advance their web presence. </p>
     </td>
-    
     <td width="50%" valign="top">
       <h3 align="center">Mt Pleasant Garage Doors</h3>
         <br />
       <a target="_blank" href="https://mtpleasantgaragedoors.com/">
-            <img src="https://i.ibb.co/sWbCHdj/MPGD.png" width="100%"  alt="garage door website"/>
+            <img src="https://i.ibb.co/PDFMQvx/MPGD.png" width="100%"  alt="garage door repair website"/>
         </a>
         <br />
         <p align="center">
@@ -60,7 +59,7 @@ Email me at: alisonherrera02@gmail.com
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, HTML5, CSS3, GoDaddy, Netlify</strong> - Modern and responsive website for garage door repair business to advance their web presence </p>
+        <p><strong>Javascript, HTML5, CSS3, GoDaddy, Netlify</strong> - Modern and responsive website for garage door repair business to advance their web presence. </p>
     </td>
   </tr>
   
@@ -69,7 +68,7 @@ Email me at: alisonherrera02@gmail.com
       <h3 align="center">AlisonHerrera.com</h3>
       <br />
         <a target="_blank" href="https://alisonherrera.com">
-          <img src="https://i.ibb.co/Bfdd6Jr/Screenshot-2023-07-14-at-5-09-57-PM.png" width="100%" alt="Portfolio"/>
+          <img src="https://i.ibb.co/rQTTphc/Screenshot-2023-07-14-at-5-09-57-PM.png" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
@@ -82,12 +81,11 @@ Email me at: alisonherrera02@gmail.com
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
-    
     <td width="50%" valign="top">
       <h3 align="center">Best Page Books</h3>
         <br />
         <a target="_blank" href="https://bestpagebooks.netlify.app/">
-          <img src="https://ibb.co/L9LkN0g" width="100%" alt="Book API site"/>
+          <img src="https://i.ibb.co/g6RB1pW/letsRead.png" width="100%" alt="Book list"/>
         </a>
         <br />
         <p align="center">
@@ -99,10 +97,11 @@ Email me at: alisonherrera02@gmail.com
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, New York Times API, HTML5, CSS3</strong> - A list of the top 10 best sellers updated weekly with use of New York Times API!</p>
+        <p><strong>New York Times API, HTML5, CSS3, & Javascript</strong> - A list of the top 10 best sellers updated weekly with use of New York Times API!</p>
     </td>
   </tr>
 </table>
+
 
 
 <h1 align="center">Technologies</h1>
