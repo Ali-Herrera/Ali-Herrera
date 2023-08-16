@@ -21,7 +21,7 @@ Check out my [website](https://alisonherrera.com/) for more information!
 
 Email me at: alisonherrera02@gmail.com
 
-<h1 align="center">Projects</h1>
+<h1 align="center">Recent Work</h1>
 <table bordercolor="#66b2b2">
   
   <tr>
