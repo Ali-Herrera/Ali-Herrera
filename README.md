@@ -41,7 +41,7 @@ Email me at: alisonherrera02@gmail.com
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, HTML5, CSS3, Netlify</strong> - Sleek, responsive website for small contracting and interior design business to advance their web presence. </p>
+        <p><strong>Javascript, HTML5, CSS3</strong> - Sleek, responsive website for small contracting and interior design business to advance their web presence. </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Mt Pleasant Garage Doors</h3>
@@ -59,7 +59,7 @@ Email me at: alisonherrera02@gmail.com
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, HTML5, CSS3, GoDaddy, Netlify</strong> - Modern and responsive website for garage door repair business to advance their web presence. </p>
+        <p><strong>Javascript, HTML5, CSS3</strong> - Modern and responsive website for garage door repair business to advance their web presence. </p>
     </td>
   </tr>
   
