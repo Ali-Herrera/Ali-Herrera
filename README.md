@@ -26,6 +26,24 @@ Email me at: alisonherrera02@gmail.com
   
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">Dizzy Rehab Hub</h3>
+        <br />
+        <a target="_blank" href="https://dizzy-rehab-hub.onrender.com/">
+            <img width="1122" alt="DizzyRehab" src="https://github.com/Ali-Herrera/Ali-Herrera/assets/122916748/495f6006-6a57-456c-8b64-dda0f408b198">
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/Ali-Herrera/dizzyRehab" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://dizzy-rehab-hub.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Node, Express, MongoDB, EJS, Javascript, HTML5, CSS3, Bootstrap</strong> - A full stack web app built as a place for Physical Therapists who treat individuals with vestibular conditions to collaborate. Make your own exercise to add to the collection, view ones others have made, like your favorites, and save the ones you use most frequently. </p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">UpTowne Renovations and Design</h3>
         <br />
         <a target="_blank" href="https://uptownerenos.netlify.app/">
