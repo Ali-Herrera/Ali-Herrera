@@ -61,24 +61,6 @@ Email me at: alisonherrera02@gmail.com
       </p>
         <p><strong>Javascript, HTML5, CSS3</strong> - Sleek, responsive website for small contracting and interior design business to advance their web presence. </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Mt Pleasant Garage Doors</h3>
-        <br />
-      <a target="_blank" href="https://mtpleasantgaragedoors.com/">
-            <img src="https://i.ibb.co/PDFMQvx/MPGD.png" width="100%"  alt="garage door repair website"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/Ali-Herrera/Freelance/tree/main/MPGD/MPGD-forms" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://mtpleasantgaragedoors.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>Javascript, HTML5, CSS3</strong> - Modern and responsive website for garage door repair business to advance their web presence. </p>
-    </td>
   </tr>
   
   <tr>
@@ -116,6 +98,26 @@ Email me at: alisonherrera02@gmail.com
   </a>
       </p>
         <p><strong>New York Times API, HTML5, CSS3, & Javascript</strong> - A list of the top 10 best sellers updated weekly with use of New York Times API!</p>
+    </td>
+  </tr>
+  <tr>
+     <td width="50%" valign="top">
+      <h3 align="center">Mt Pleasant Garage Doors</h3>
+        <br />
+      <a target="_blank" href="https://mtpleasantgaragedoors.com/">
+            <img src="https://i.ibb.co/PDFMQvx/MPGD.png" width="100%"  alt="garage door repair website"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/Ali-Herrera/Freelance/tree/main/MPGD/MPGD-forms" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://mtpleasantgaragedoors.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, HTML5, CSS3</strong> - Modern and responsive website for garage door repair business to advance their web presence. </p>
     </td>
   </tr>
 </table>
