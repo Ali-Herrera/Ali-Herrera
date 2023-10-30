@@ -52,7 +52,7 @@ Email me at: alisonherrera02@gmail.com
         <br />
         <p align="center">
           
-  <a href="https://github.com/Ali-Herrera/dizzyRehab" target="_blank">
+  <a href="https://github.com/Ali-Herrera/travel-social" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
       </p>
