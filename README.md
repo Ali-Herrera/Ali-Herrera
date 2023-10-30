@@ -48,7 +48,6 @@ Email me at: alisonherrera02@gmail.com
         <br />
         <a target="_blank" href="https://github.com/Ali-Herrera/travel-social">
            <img width="1208" alt="TravelSocial" src="https://github.com/Ali-Herrera/Ali-Herrera/assets/122916748/0f6962e1-0b1a-473b-86e0-f174c3045649">
-
         </a>
         <br />
         <p align="center">
